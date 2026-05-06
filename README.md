@@ -27,13 +27,13 @@ You can also assign it a custom icon and use it like a normal desktop app shortc
 
 ## 🚀 Running at Windows startup
 
-If you want this script to run automatically when Windows starts:
+You may want this script to run automatically when Windows starts, I have a better solution - disable Adobe from starting at all:
 
 ### 1. Disable Adobe startup (recommended)
 You can do this via:
-- Windows Settings → Startup Apps  
-- Registry tools (e.g. Reg Organizer)  
+- Windows Settings → Startup Apps
 - Microsoft Sysinternals Autoruns
+- Registry tools (e.g. Reg Organizer, but russian utils are sus)  
 
 📌 Sysinternals Autoruns:
 https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
