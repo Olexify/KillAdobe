@@ -27,8 +27,7 @@ You can also assign it a custom icon and use it like a normal desktop app shortc
 
 ## 🚀 Running at Windows startup
 
-If you want this script to run automatically when Windows starts,
-think about it instead:
+If you want this script to run automatically when Windows starts:
 
 ### 1. Disable Adobe startup (recommended)
 You can do this via:
