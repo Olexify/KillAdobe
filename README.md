@@ -5,10 +5,9 @@ A simple Windows utility that kills all Adobe background processes from RAM with
 Just run the `.bat` file (which calls PowerShell scripts under the hood) and Adobe gets instantly terminated.
 
 ---
-<div align="center">
+<div align="left">
   <img width="200" src="https://github.com/user-attachments/assets/294ee564-2c6d-4688-9232-3a9ca87c7883" />
 </div>
----
 
 ## ⚙️ How it works
 
