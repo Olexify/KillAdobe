@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/b7089d6d-7e22-4085-8881-0194285ff6ef" />
+</div>
+
 # 🧨 KillAdobe
 
 A simple Windows utility that kills all Adobe background processes from RAM with a single click.
