@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/b7089d6d-7e22-4085-8881-0194285ff6ef" />
+  <img width="100" src="https://github.com/user-attachments/assets/294ee564-2c6d-4688-9232-3a9ca87c7883" />
 </div>
 
 # 🧨 KillAdobe
